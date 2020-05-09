@@ -1,0 +1,3 @@
+This is python based console app which blocks certain websites on your device.
+It will automatically start working as soon as you open your device.
+It is capable of blocking the sites for particular span of time.
